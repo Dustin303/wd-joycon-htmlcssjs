@@ -1,0 +1,73 @@
+.box1{
+width:500px;
+height:150px;
+background:wheat;
+border-radius: 10px;
+text-align: center;
+font-weight: bold;
+font-size: 35px;
+margin-top: 100px;
+margin-left: 400px;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 32px;
+padding-right: 32px;
+display: inline-block;
+font-family: Verdana;
+}
+
+#Control .box2{
+    width:300px;
+    height:250px;
+    background: lightblue;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+    font-family: Verdana;
+}
+
+#Control .box3{
+    width:300px;
+    height:250px;
+    background: wheat;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: black;
+    margin-top: 100px;
+    margin-left: -140px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+    font-family: Verdana;
+}
+
+article{
+    width: 33.33%;
+    padding: 16px;
+    display: table-cell;
+    color: wheat;
+    margin-top: -150px;
+    font-family: Verdana;
+}
+
+h2 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: inline-block;
+}
